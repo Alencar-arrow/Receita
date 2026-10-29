@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 🍳 Projeto Receita
+  # Projeto Receita
 
   <p align="center">
     Uma aplicação web simples para consultar receitas deliciosas.
