@@ -1,3 +1,3 @@
 # Projeto Receita
 
-<a href="https://alencar-arrow.github.io/Receita/receita_pasta/receita.html" target="_blank" rel="noopener noreferrer">Clique aqui para acessar a Receita</a>
+[![Acessar Receita](https://img.shields.io/badge/Acessar-Receita-brightgreen?style=for-the-badge&logo=google-chrome)](https://alencar-arrow.github.io/Receita/receita_pasta/receita.html)
