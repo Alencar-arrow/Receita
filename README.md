@@ -3,7 +3,7 @@
   # 🍳 Projeto Receita
 
   <p align="center">
-    Uma aplicação web simples e elegante para consultar receitas deliciosas.
+    Uma aplicação web simples para consultar receitas deliciosas.
   </p>
 
   <!-- Botão Principal -->
@@ -24,7 +24,6 @@
 
 ### 💻 Tecnologias Utilizadas
 * **HTML5** — Estruturação do conteúdo
-* **CSS3** — Estilização e layout responsivo
 
 ### 🚀 Como Acessar
 Clica no botão **"Ver Receita Ao Vivo"** no topo da página para visualizar o projeto final diretamente no navegador.
